@@ -1,4 +1,4 @@
-n=1923
+n=77
 if(n>0):
     print("Positive")
 elif(n<0):
